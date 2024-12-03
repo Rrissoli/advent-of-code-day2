@@ -1,0 +1,18 @@
+{
+  "name": "advent-code-day02",
+  "version": "1.0.0",
+  "description": "--- Day 2: Red-Nosed Reports --- Fortunately, the first location The Historians want to search isn't a long walk from the Chief Historian's office.",
+  "main": "index.js",
+    "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+    "dependencies": {
+    "fs": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
